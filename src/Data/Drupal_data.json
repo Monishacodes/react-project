@@ -1,0 +1,28 @@
+[
+    {
+        "id":2,
+        "artColor" : "art-blue",
+        "imgUrl" : "img/sec3.png",
+        "contentHeading" : "Drupal development services",
+        "contentSubheading" : "drupal development",
+        "contentText" : "At the Drupal Association, we value highly the commitment made by those who volunteer their time to make these events"
+    },
+    {
+        "id": 4,
+        "artColor" : "art-blue",
+        "imgUrl" : "img/sec3.png",
+        "contentHeading" : "Headless CMS: REST vs JSON",
+        "contentSubheading" : "drupal development",
+        "contentText" : "We compare three different web services implementations based on request efficiency, operational simplicity, API discoverability, and"
+    },
+    {
+        "id": 8,
+        "artColor" : "art-blue",
+        "imgUrl" : "img/sec3.png",
+        "contentHeading" : "Drupal Event Organizers",
+        "contentSubheading" : "drupal development",
+        "contentText" : "The events that every year bring us together all over the World are the lifeblood of our vibrant and diverse community."
+    }
+]
+
+

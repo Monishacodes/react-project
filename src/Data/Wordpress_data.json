@@ -1,0 +1,18 @@
+[
+    {
+        "id":3,
+        "artColor" : "art-yellow",
+        "imgUrl" : "img/sec2.png",
+        "contentHeading" : "The Month in WordPress: January 2019",
+        "contentSubheading" : "wordpress development",
+        "contentText" : "The momentum from December’s WordPress 5.0 release was maintained through January with some big announcements and significant"
+    },
+    {
+        "id": 6,
+        "artColor" : "art-yellow",
+        "imgUrl" : "img/sec2.png",
+        "contentHeading" : "Cyber Monday 2018 WordPress",
+        "contentSubheading" : "wordpress development",
+        "contentText" : "Looking for the best Black Friday and Cyber Monday deals on your favorite WordPress products?"
+    }
+]

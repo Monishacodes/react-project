@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "artColor" : "art-pink",
+        "imgUrl" : "img/sec1.png",
+        "contentHeading" : "Oracle Java Card updated for IoT app",
+        "contentSubheading" : "java development",
+        "contentText" : "Java Card is a software technology providing isolation between secure hardware and software services"
+    },
+    {
+        "id": 2,
+        "artColor" : "art-pink",
+        "imgUrl" : "img/sec1.png",
+        "contentHeading" : "Python’s popularity surges as a mainstay",
+        "contentSubheading" : "java development",
+        "contentText" : "Java, C, C++, VisualBasic.Net, Kotlin, Matlab, Rust, and TypeScript also gain while Ruby and F# slip"
+    },
+    {
+        "id": 3,
+        "category":"java",
+        "artColor" : "art-yellow",
+        "imgUrl" : "img/sec1.png",
+        "contentHeading" : "JDK 12 beta: The new features coming",
+        "contentSubheading" : "java development",
+        "contentText" : "The first beta builds are available, with switch expressions to improve coding and allow pattern"
+    }
+]
+
+

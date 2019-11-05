@@ -1,0 +1,48 @@
+
+// @import 'base/reset';
+// @import 'base/variable';
+// @import 'base/typography';
+// @import 'base/mixins';
+// @import 'base/common';
+// @import 'base/animation';
+
+// @import 'layout/responsive';
+
+// @import 'Components/header';
+
+
+// @import 'Components/button';
+// @import 'Components/slider';
+// @import 'Components/search';
+// @import 'Components/article';
+// @import 'Components/contact';
+// @import 'Components/footer';
+
+
+//base files
+@import 'base/reset';
+@import 'base/variable';
+@import 'base/typography';
+@import 'base/mixins';
+@import 'base/common';
+@import 'base/animation';
+
+
+//layout
+@import 'layout/responsive';
+
+
+
+//Components
+@import 'Components/search';
+@import 'Components/burgermenu';
+@import 'Components/contact';
+@import 'Components/header';
+@import 'Components/button';
+@import 'Components/slider';
+@import 'Components/article';
+@import 'Components/footer';
+
+
+
+

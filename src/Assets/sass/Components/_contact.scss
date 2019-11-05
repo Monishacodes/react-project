@@ -1,0 +1,73 @@
+.contact {
+    padding: 114px 0;
+    background: $blue;
+
+    &-heading {
+        h2 {
+            text-transform: uppercase;
+            color: $white;
+            font-weight: 200;
+            font-size: $f-xlarge;
+            margin: 0;
+            padding-bottom: 20px;
+            position: relative;
+            line-height: 1;
+
+
+            &::before {
+                position: absolute;
+                content: '';
+                bottom: 0;
+                height: 4px;
+                left: 0;
+                right: 0;
+                width: 84px;
+                background: rgba(0, 0, 0, 0.3);
+                margin: auto;
+            }
+        }
+
+        p {
+            margin: 0;
+            padding: 25px 30px;
+            font-weight: 200;
+            color: $white;
+            line-height: 1;
+        }
+    }
+
+    &-form {
+        padding-top: 51px;
+
+        input,
+        textarea {
+            padding: 21px 25px 20px;
+            background: rgba(0, 0, 0, 0.2);
+            border: none;
+            width: 100%;
+            @include border-radius(4px);
+            color: $white;
+
+            &:focus+label {
+                margin-top: -22px;
+                font-size: 70%;
+                @include transition(all, 0.4s, ease, 0s );
+            }
+        }
+        textarea {
+            height: 200px;
+        }
+
+        label {
+            position: absolute;
+            color: $white;
+            left: 42px;
+            top: 19px;
+            font-weight: 300;
+            @include transition(all, 0.4s, ease, 0s );
+            span {
+                color: $red;
+            }
+        }
+    }
+}
